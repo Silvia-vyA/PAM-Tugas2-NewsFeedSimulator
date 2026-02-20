@@ -28,15 +28,18 @@ Aplikasi ini menampilkan berita secara dinamis menggunakan
 ## 📸 Screenshot Aplikasi
 
 ### 🏠 Tampilan Aplikasi
-![Tampilan Utama](composeApp/src/androidMain/res/pam2a.jpeg)
 
----
+<p align="center">
+  <img src="composeApp/src/androidMain/res/pam2a.jpeg" width="300"/>
+</p>
 
-![Lanjutkan Membaca](composeApp/src/androidMain/res/pam2b.png)
+<p align="center">
+  <img src="composeApp/src/androidMain/res/pam2b.png" width="300"/>
+</p>
 
----
-
-![Detail Berita](composeApp/src/androidMain/res/pam2c.png)
+<p align="center">
+  <img src="composeApp/src/androidMain/res/pam2c.png" width="300"/>
+</p>
 
 ---
 
